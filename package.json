@@ -21,7 +21,7 @@
   "author": "André Cruz <andre@moxy.studio>",
   "homepage": "https://github.com/moxystudio/next-style",
   "bugs": "https://github.com/moxystudio/next-style/issues",
-  "repository": "git@github.com:moxystudio/next-style.git",
+  "repository": "http://github.com/moxystudio/next-style.git",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
@@ -41,6 +41,6 @@
     "hoist-non-react-statics": "^1.2.0",
     "loader-utils": "^0.2.16",
     "react": "^15.4.2",
-    "style-loader": "ssh+git://github.com/bendytree/style-loader.git"
+    "style-loader": "https://github.com/bendytree/style-loader.git"
   }
 }
